@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sous</string>
+    <string name="euros_label">Euros</string>
+    <string name="taux_echange">taux d\'échange</string>
+    <string name="resultat">resultat</string>
+    <string name="button_convert">convertir</string>
+    <string name="button_choosetaux">choisir</string>
+    <string name="convertdollars_label">convertir en dollars</string>
+    <string name="convertyen_label">convertir en yen</string>
+    <string name="button_next">suivant</string>
+    <string name="activity2_name">choix</string>
+    <string name="zero">0</string>
+
+</resources>
